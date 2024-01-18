@@ -1,3 +1,6 @@
 # Mahadi Hasan Sumon's GitHub Profile 👋🏻
-🌱 I’m currently learning ...
-📫 How to reach me: ..
+Welcome to my public profile! This includes my [Certificates of Completion](https://www.learnenough.com/certificates/mahadihasan) from [Learn Enough](https://www.learnenough.com/). The following are the badges I have earned so far:  
+<a href="https://www.learnenough.com/certificates/mahadihasan"><img src="https://www.learnenough.com/certificates/mahadihasan/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/mahadihasan"><img src="https://www.learnenough.com/certificates/mahadihasan/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/mahadihasan"><img src="https://www.learnenough.com/certificates/mahadihasan/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/mahadihasan"><img src="https://www.learnenough.com/certificates/mahadihasan/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a>  
+Many more are on the way ...🚧 🛠️  
+🌱 I’m currently learning to *code* on [Learn Enough](https://www.learnenough.com/).  
+📫 You can reach me at [mahadihs@proton.me](mahadihs@proton.me).
